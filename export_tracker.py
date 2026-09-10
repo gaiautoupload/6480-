@@ -56,6 +56,12 @@ def main():
      e={"date":day,"action":action,"change_lots":round(delta/1000,2),"total_lots":round(new/1000,2)};item["timeline"].append(e);alerts.append({**e,"pair_id":pid,"stock_code":stock,"stock_name":name})
  grouped={}
  for x in tracked.values():grouped.setdefault(x["stock_code"],{"stock_code":x["stock_code"],"stock_name":x["stock_name"],"latest_price":x["latest_price"],"pairs":[]})["pairs"].append(x)
- payload={"schema_version":1,"generated_at":datetime.now().astimezone().isoformat(timespec="seconds"),"as_of":days[-1],"definition":"兩個指定分點在同一股票、同一交易日皆由零推估庫存轉為正庫存；同股同日彙整，觸發後永久保留追蹤。","pairs":[{"id":f"{a}-{b}","brokers":[a,b],"events":e,"hits":h,"return_pct":r,"examples":x} for a,b,e,h,r,x in PAIRS],"tracked_stocks":sorted(grouped.values(),key=lambda x:max(p["first_signal_date"] for p in x["pairs"]),reverse=True),"alerts":sorted(alerts,key=lambda x:(x["date"],x["stock_code"]),reverse=True)[:100]}
- (ROOT/"data").mkdir(exist_ok=True);(ROOT/"data/pair_tracker.json").write_text(json.dumps(payload,ensure_ascii=False,indent=2),encoding="utf-8");print(json.dumps({"as_of":days[-1],"stocks":len(grouped),"alerts":len(alerts)},ensure_ascii=False))
+ output=ROOT/"data/pair_tracker.json";generated=datetime.now().astimezone().isoformat(timespec="seconds")
+ if output.exists():
+  try:
+   previous=json.loads(output.read_text(encoding="utf-8"))
+   if previous.get("as_of")==days[-1]:generated=previous.get("generated_at",generated)
+  except (ValueError,OSError):pass
+ payload={"schema_version":1,"generated_at":generated,"as_of":days[-1],"definition":"兩個指定分點在同一股票、同一交易日皆由零推估庫存轉為正庫存；同股同日彙整，觸發後永久保留追蹤。","pairs":[{"id":f"{a}-{b}","brokers":[a,b],"events":e,"hits":h,"return_pct":r,"examples":x} for a,b,e,h,r,x in PAIRS],"tracked_stocks":sorted(grouped.values(),key=lambda x:max(p["first_signal_date"] for p in x["pairs"]),reverse=True),"alerts":sorted(alerts,key=lambda x:(x["date"],x["stock_code"]),reverse=True)[:100]}
+ output.parent.mkdir(exist_ok=True);output.write_text(json.dumps(payload,ensure_ascii=False,indent=2),encoding="utf-8");print(json.dumps({"as_of":days[-1],"stocks":len(grouped),"alerts":len(alerts)},ensure_ascii=False))
 if __name__=="__main__":main()
