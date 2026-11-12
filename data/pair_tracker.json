@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-11T18:47:34+08:00",
-  "as_of": "2026-11-11",
+  "generated_at": "2026-11-12T18:47:35+08:00",
+  "as_of": "2026-11-12",
   "definition": "兩個指定分點在同一股票、同一交易日皆由零推估庫存轉為正庫存；同股同日彙整，觸發後永久保留追蹤。",
   "pairs": [
     {
@@ -64,7 +64,7 @@
     {
       "stock_code": "7960",
       "stock_name": "亞昕科技",
-      "latest_price": 126.0,
+      "latest_price": 124.0,
       "pairs": [
         {
           "pair_id": "6480-9872",
@@ -95,10 +95,10 @@
               "total_lots": 9.33
             }
           ],
-          "latest_price": 126.0,
-          "as_of": "2026-11-11",
+          "latest_price": 124.0,
+          "as_of": "2026-11-12",
           "total_lots": 9.33,
-          "market_value_wan": 117.56,
+          "market_value_wan": 115.69,
           "current_state": "持有"
         }
       ]
@@ -106,7 +106,7 @@
     {
       "stock_code": "6750",
       "stock_name": "泰創工程",
-      "latest_price": 55.3,
+      "latest_price": 56.0,
       "pairs": [
         {
           "pair_id": "6480-9216",
@@ -143,10 +143,10 @@
               "total_lots": 6.0
             }
           ],
-          "latest_price": 55.3,
-          "as_of": "2026-11-11",
+          "latest_price": 56.0,
+          "as_of": "2026-11-12",
           "total_lots": 6.0,
-          "market_value_wan": 33.18,
+          "market_value_wan": 33.6,
           "current_state": "持有"
         }
       ]
@@ -154,7 +154,7 @@
     {
       "stock_code": "7951",
       "stock_name": "大易橙",
-      "latest_price": 509.0,
+      "latest_price": 499.0,
       "pairs": [
         {
           "pair_id": "6480-9872",
@@ -221,10 +221,10 @@
               "total_lots": 15.01
             }
           ],
-          "latest_price": 509.0,
-          "as_of": "2026-11-11",
+          "latest_price": 499.0,
+          "as_of": "2026-11-12",
           "total_lots": 15.01,
-          "market_value_wan": 764.11,
+          "market_value_wan": 749.1,
           "current_state": "持有"
         },
         {
@@ -280,10 +280,10 @@
               "total_lots": 2.1
             }
           ],
-          "latest_price": 509.0,
-          "as_of": "2026-11-11",
+          "latest_price": 499.0,
+          "as_of": "2026-11-12",
           "total_lots": 2.1,
-          "market_value_wan": 106.89,
+          "market_value_wan": 104.79,
           "current_state": "持有"
         }
       ]
@@ -365,7 +365,7 @@
             }
           ],
           "latest_price": 113.0,
-          "as_of": "2026-11-11",
+          "as_of": "2026-11-12",
           "total_lots": 2.0,
           "market_value_wan": 22.6,
           "current_state": "持有"
@@ -375,7 +375,7 @@
     {
       "stock_code": "7924",
       "stock_name": "TLC-KY",
-      "latest_price": 402.5,
+      "latest_price": 384.5,
       "pairs": [
         {
           "pair_id": "9203-9B2i",
@@ -442,10 +442,10 @@
               "total_lots": 54.0
             }
           ],
-          "latest_price": 402.5,
-          "as_of": "2026-11-11",
+          "latest_price": 384.5,
+          "as_of": "2026-11-12",
           "total_lots": 54.0,
-          "market_value_wan": 2173.5,
+          "market_value_wan": 2076.3,
           "current_state": "持有"
         }
       ]
@@ -453,7 +453,7 @@
     {
       "stock_code": "7942",
       "stock_name": "東佑達",
-      "latest_price": 519.0,
+      "latest_price": 477.5,
       "pairs": [
         {
           "pair_id": "6480-9216",
@@ -586,10 +586,10 @@
               "total_lots": 0.87
             }
           ],
-          "latest_price": 519.0,
-          "as_of": "2026-11-11",
+          "latest_price": 477.5,
+          "as_of": "2026-11-12",
           "total_lots": 0.87,
-          "market_value_wan": 44.95,
+          "market_value_wan": 41.35,
           "current_state": "持有"
         }
       ]
@@ -597,7 +597,7 @@
     {
       "stock_code": "7947",
       "stock_name": "補丁科",
-      "latest_price": 580.0,
+      "latest_price": 556.0,
       "pairs": [
         {
           "pair_id": "9203-9B2i",
@@ -628,8 +628,8 @@
               "total_lots": 0.0
             }
           ],
-          "latest_price": 580.0,
-          "as_of": "2026-11-11",
+          "latest_price": 556.0,
+          "as_of": "2026-11-12",
           "total_lots": 0.0,
           "market_value_wan": 0.0,
           "current_state": "出清"
@@ -773,7 +773,7 @@
             }
           ],
           "latest_price": 199.0,
-          "as_of": "2026-11-11",
+          "as_of": "2026-11-12",
           "total_lots": 66.0,
           "market_value_wan": 1313.4,
           "current_state": "持有"
@@ -783,7 +783,7 @@
     {
       "stock_code": "7686",
       "stock_name": "捷立康",
-      "latest_price": 729.0,
+      "latest_price": 640.0,
       "pairs": [
         {
           "pair_id": "6480-9203",
@@ -898,10 +898,10 @@
               "total_lots": 9.1
             }
           ],
-          "latest_price": 729.0,
-          "as_of": "2026-11-11",
+          "latest_price": 640.0,
+          "as_of": "2026-11-12",
           "total_lots": 9.1,
-          "market_value_wan": 663.39,
+          "market_value_wan": 582.4,
           "current_state": "持有"
         },
         {
@@ -981,10 +981,10 @@
               "total_lots": 6.1
             }
           ],
-          "latest_price": 729.0,
-          "as_of": "2026-11-11",
+          "latest_price": 640.0,
+          "as_of": "2026-11-12",
           "total_lots": 6.1,
-          "market_value_wan": 444.69,
+          "market_value_wan": 390.4,
           "current_state": "持有"
         },
         {
@@ -1158,12 +1158,18 @@
               "action": "減碼",
               "change_lots": -5.97,
               "total_lots": 63.34
+            },
+            {
+              "date": "2026-11-12",
+              "action": "加碼",
+              "change_lots": 0.02,
+              "total_lots": 63.36
             }
           ],
-          "latest_price": 729.0,
-          "as_of": "2026-11-11",
-          "total_lots": 63.34,
-          "market_value_wan": 4617.78,
+          "latest_price": 640.0,
+          "as_of": "2026-11-12",
+          "total_lots": 63.36,
+          "market_value_wan": 4055.23,
           "current_state": "持有"
         },
         {
@@ -1267,10 +1273,10 @@
               "total_lots": 3.0
             }
           ],
-          "latest_price": 729.0,
-          "as_of": "2026-11-11",
+          "latest_price": 640.0,
+          "as_of": "2026-11-12",
           "total_lots": 3.0,
-          "market_value_wan": 218.7,
+          "market_value_wan": 192.0,
           "current_state": "持有"
         }
       ]
@@ -1508,7 +1514,7 @@
             }
           ],
           "latest_price": 201.5,
-          "as_of": "2026-11-11",
+          "as_of": "2026-11-12",
           "total_lots": 42.89,
           "market_value_wan": 864.29,
           "current_state": "持有"
@@ -1518,7 +1524,7 @@
     {
       "stock_code": "7917",
       "stock_name": "源傑科技",
-      "latest_price": 311.0,
+      "latest_price": 330.0,
       "pairs": [
         {
           "pair_id": "6480-9203",
@@ -1663,10 +1669,10 @@
               "total_lots": 10.85
             }
           ],
-          "latest_price": 311.0,
-          "as_of": "2026-11-11",
+          "latest_price": 330.0,
+          "as_of": "2026-11-12",
           "total_lots": 10.85,
-          "market_value_wan": 337.44,
+          "market_value_wan": 358.05,
           "current_state": "持有"
         },
         {
@@ -1894,12 +1900,18 @@
               "action": "減碼",
               "change_lots": -0.01,
               "total_lots": 8.43
+            },
+            {
+              "date": "2026-11-12",
+              "action": "加碼",
+              "change_lots": 1.0,
+              "total_lots": 9.43
             }
           ],
-          "latest_price": 311.0,
-          "as_of": "2026-11-11",
-          "total_lots": 8.43,
-          "market_value_wan": 262.08,
+          "latest_price": 330.0,
+          "as_of": "2026-11-12",
+          "total_lots": 9.43,
+          "market_value_wan": 311.09,
           "current_state": "持有"
         },
         {
@@ -1949,10 +1961,10 @@
               "total_lots": 0.01
             }
           ],
-          "latest_price": 311.0,
-          "as_of": "2026-11-11",
+          "latest_price": 330.0,
+          "as_of": "2026-11-12",
           "total_lots": 0.01,
-          "market_value_wan": 0.31,
+          "market_value_wan": 0.33,
           "current_state": "持有"
         },
         {
@@ -2098,10 +2110,10 @@
               "total_lots": 403.03
             }
           ],
-          "latest_price": 311.0,
-          "as_of": "2026-11-11",
+          "latest_price": 330.0,
+          "as_of": "2026-11-12",
           "total_lots": 403.03,
-          "market_value_wan": 12534.23,
+          "market_value_wan": 13299.99,
           "current_state": "持有"
         },
         {
@@ -2247,10 +2259,10 @@
               "total_lots": 10.86
             }
           ],
-          "latest_price": 311.0,
-          "as_of": "2026-11-11",
+          "latest_price": 330.0,
+          "as_of": "2026-11-12",
           "total_lots": 10.86,
-          "market_value_wan": 337.75,
+          "market_value_wan": 358.38,
           "current_state": "持有"
         }
       ]
@@ -2258,7 +2270,7 @@
     {
       "stock_code": "7936",
       "stock_name": "寰聖",
-      "latest_price": 14.85,
+      "latest_price": 14.7,
       "pairs": [
         {
           "pair_id": "6480-9B2i",
@@ -2301,10 +2313,10 @@
               "total_lots": 7.0
             }
           ],
-          "latest_price": 14.85,
-          "as_of": "2026-11-11",
+          "latest_price": 14.7,
+          "as_of": "2026-11-12",
           "total_lots": 7.0,
-          "market_value_wan": 10.39,
+          "market_value_wan": 10.29,
           "current_state": "持有"
         }
       ]
@@ -2312,7 +2324,7 @@
     {
       "stock_code": "7930",
       "stock_name": "威世波",
-      "latest_price": 182.0,
+      "latest_price": 180.0,
       "pairs": [
         {
           "pair_id": "6480-9872",
@@ -2445,8 +2457,8 @@
               "total_lots": 0.0
             }
           ],
-          "latest_price": 182.0,
-          "as_of": "2026-11-11",
+          "latest_price": 180.0,
+          "as_of": "2026-11-12",
           "total_lots": 0.0,
           "market_value_wan": 0.0,
           "current_state": "出清"
@@ -2582,10 +2594,10 @@
               "total_lots": 3.3
             }
           ],
-          "latest_price": 182.0,
-          "as_of": "2026-11-11",
+          "latest_price": 180.0,
+          "as_of": "2026-11-12",
           "total_lots": 3.3,
-          "market_value_wan": 60.06,
+          "market_value_wan": 59.4,
           "current_state": "持有"
         }
       ]
@@ -2593,7 +2605,7 @@
     {
       "stock_code": "6696",
       "stock_name": "仁新*",
-      "latest_price": 166.5,
+      "latest_price": 172.5,
       "pairs": [
         {
           "pair_id": "6480-9203",
@@ -3054,12 +3066,18 @@
               "action": "減碼",
               "change_lots": -28.0,
               "total_lots": 582.8
+            },
+            {
+              "date": "2026-11-12",
+              "action": "減碼",
+              "change_lots": -32.0,
+              "total_lots": 550.8
             }
           ],
-          "latest_price": 166.5,
-          "as_of": "2026-11-11",
-          "total_lots": 582.8,
-          "market_value_wan": 9703.6,
+          "latest_price": 172.5,
+          "as_of": "2026-11-12",
+          "total_lots": 550.8,
+          "market_value_wan": 9501.28,
           "current_state": "持有"
         }
       ]
@@ -3067,7 +3085,7 @@
     {
       "stock_code": "7929",
       "stock_name": "碩通",
-      "latest_price": 315.0,
+      "latest_price": 285.5,
       "pairs": [
         {
           "pair_id": "6480-9203",
@@ -3344,10 +3362,10 @@
               "total_lots": 77.0
             }
           ],
-          "latest_price": 315.0,
-          "as_of": "2026-11-11",
+          "latest_price": 285.5,
+          "as_of": "2026-11-12",
           "total_lots": 77.0,
-          "market_value_wan": 2425.5,
+          "market_value_wan": 2198.35,
           "current_state": "持有"
         },
         {
@@ -3547,10 +3565,10 @@
               "total_lots": 5.1
             }
           ],
-          "latest_price": 315.0,
-          "as_of": "2026-11-11",
+          "latest_price": 285.5,
+          "as_of": "2026-11-12",
           "total_lots": 5.1,
-          "market_value_wan": 160.65,
+          "market_value_wan": 145.6,
           "current_state": "持有"
         }
       ]
@@ -3558,7 +3576,7 @@
     {
       "stock_code": "7928",
       "stock_name": "合聖科技*",
-      "latest_price": 305.0,
+      "latest_price": 290.0,
       "pairs": [
         {
           "pair_id": "6480-9872",
@@ -3655,10 +3673,10 @@
               "total_lots": 17.31
             }
           ],
-          "latest_price": 305.0,
-          "as_of": "2026-11-11",
+          "latest_price": 290.0,
+          "as_of": "2026-11-12",
           "total_lots": 17.31,
-          "market_value_wan": 528.02,
+          "market_value_wan": 502.05,
           "current_state": "持有"
         }
       ]
@@ -3666,7 +3684,7 @@
     {
       "stock_code": "7926",
       "stock_name": "中華立鼎",
-      "latest_price": 427.0,
+      "latest_price": 415.0,
       "pairs": [
         {
           "pair_id": "6480-9203",
@@ -3823,10 +3841,10 @@
               "total_lots": 4.2
             }
           ],
-          "latest_price": 427.0,
-          "as_of": "2026-11-11",
+          "latest_price": 415.0,
+          "as_of": "2026-11-12",
           "total_lots": 4.2,
-          "market_value_wan": 179.34,
+          "market_value_wan": 174.3,
           "current_state": "持有"
         }
       ]
@@ -3834,7 +3852,7 @@
     {
       "stock_code": "7873",
       "stock_name": "瑞峰",
-      "latest_price": 110.5,
+      "latest_price": 105.0,
       "pairs": [
         {
           "pair_id": "6480-9203",
@@ -3929,12 +3947,18 @@
               "action": "減碼",
               "change_lots": -6.0,
               "total_lots": 30.0
+            },
+            {
+              "date": "2026-11-12",
+              "action": "加碼",
+              "change_lots": 2.0,
+              "total_lots": 32.0
             }
           ],
-          "latest_price": 110.5,
-          "as_of": "2026-11-11",
-          "total_lots": 30.0,
-          "market_value_wan": 331.5,
+          "latest_price": 105.0,
+          "as_of": "2026-11-12",
+          "total_lots": 32.0,
+          "market_value_wan": 336.0,
           "current_state": "持有"
         },
         {
@@ -4116,10 +4140,10 @@
               "total_lots": 20.05
             }
           ],
-          "latest_price": 110.5,
-          "as_of": "2026-11-11",
+          "latest_price": 105.0,
+          "as_of": "2026-11-12",
           "total_lots": 20.05,
-          "market_value_wan": 221.55,
+          "market_value_wan": 210.53,
           "current_state": "持有"
         }
       ]
@@ -4127,7 +4151,7 @@
     {
       "stock_code": "7920",
       "stock_name": "瀚陽*",
-      "latest_price": 6.85,
+      "latest_price": 6.61,
       "pairs": [
         {
           "pair_id": "6480-9B2i",
@@ -4224,10 +4248,10 @@
               "total_lots": 18.0
             }
           ],
-          "latest_price": 6.85,
-          "as_of": "2026-11-11",
+          "latest_price": 6.61,
+          "as_of": "2026-11-12",
           "total_lots": 18.0,
-          "market_value_wan": 12.33,
+          "market_value_wan": 11.9,
           "current_state": "持有"
         }
       ]
@@ -4235,7 +4259,7 @@
     {
       "stock_code": "7784",
       "stock_name": "安邦生技*",
-      "latest_price": 9.9,
+      "latest_price": 9.8,
       "pairs": [
         {
           "pair_id": "6480-9B2i",
@@ -4398,10 +4422,10 @@
               "total_lots": 2.0
             }
           ],
-          "latest_price": 9.9,
-          "as_of": "2026-11-11",
+          "latest_price": 9.8,
+          "as_of": "2026-11-12",
           "total_lots": 2.0,
-          "market_value_wan": 1.98,
+          "market_value_wan": 1.96,
           "current_state": "持有"
         }
       ]
@@ -4409,7 +4433,7 @@
     {
       "stock_code": "7915",
       "stock_name": "廌家",
-      "latest_price": 200.0,
+      "latest_price": 242.5,
       "pairs": [
         {
           "pair_id": "6480-9203",
@@ -4464,10 +4488,10 @@
               "total_lots": 8.6
             }
           ],
-          "latest_price": 200.0,
-          "as_of": "2026-11-11",
+          "latest_price": 242.5,
+          "as_of": "2026-11-12",
           "total_lots": 8.6,
-          "market_value_wan": 172.0,
+          "market_value_wan": 208.55,
           "current_state": "持有"
         }
       ]
@@ -4475,7 +4499,7 @@
     {
       "stock_code": "7912",
       "stock_name": "新聿科",
-      "latest_price": 252.5,
+      "latest_price": 251.0,
       "pairs": [
         {
           "pair_id": "6480-9B2i",
@@ -4542,10 +4566,10 @@
               "total_lots": 2.02
             }
           ],
-          "latest_price": 252.5,
-          "as_of": "2026-11-11",
+          "latest_price": 251.0,
+          "as_of": "2026-11-12",
           "total_lots": 2.02,
-          "market_value_wan": 51.11,
+          "market_value_wan": 50.8,
           "current_state": "持有"
         }
       ]
@@ -4553,7 +4577,7 @@
     {
       "stock_code": "7907",
       "stock_name": "錸恩帕斯",
-      "latest_price": 225.0,
+      "latest_price": 224.0,
       "pairs": [
         {
           "pair_id": "6480-9B2i",
@@ -4602,10 +4626,10 @@
               "total_lots": 0.31
             }
           ],
-          "latest_price": 225.0,
-          "as_of": "2026-11-11",
+          "latest_price": 224.0,
+          "as_of": "2026-11-12",
           "total_lots": 0.31,
-          "market_value_wan": 6.91,
+          "market_value_wan": 6.88,
           "current_state": "持有"
         }
       ]
@@ -4613,7 +4637,7 @@
     {
       "stock_code": "7909",
       "stock_name": "鈺祥",
-      "latest_price": 499.5,
+      "latest_price": 456.0,
       "pairs": [
         {
           "pair_id": "6480-9203",
@@ -4986,10 +5010,10 @@
               "total_lots": 21.2
             }
           ],
-          "latest_price": 499.5,
-          "as_of": "2026-11-11",
+          "latest_price": 456.0,
+          "as_of": "2026-11-12",
           "total_lots": 21.2,
-          "market_value_wan": 1058.94,
+          "market_value_wan": 966.72,
           "current_state": "持有"
         },
         {
@@ -5219,10 +5243,10 @@
               "total_lots": 21.43
             }
           ],
-          "latest_price": 499.5,
-          "as_of": "2026-11-11",
+          "latest_price": 456.0,
+          "as_of": "2026-11-12",
           "total_lots": 21.43,
-          "market_value_wan": 1070.43,
+          "market_value_wan": 977.21,
           "current_state": "持有"
         },
         {
@@ -5542,10 +5566,10 @@
               "total_lots": 0.23
             }
           ],
-          "latest_price": 499.5,
-          "as_of": "2026-11-11",
+          "latest_price": 456.0,
+          "as_of": "2026-11-12",
           "total_lots": 0.23,
-          "market_value_wan": 11.49,
+          "market_value_wan": 10.49,
           "current_state": "持有"
         }
       ]
@@ -5807,7 +5831,7 @@
             }
           ],
           "latest_price": 406.0,
-          "as_of": "2026-11-11",
+          "as_of": "2026-11-12",
           "total_lots": 18.67,
           "market_value_wan": 758.0,
           "current_state": "持有"
@@ -5817,7 +5841,7 @@
     {
       "stock_code": "7899",
       "stock_name": "景美",
-      "latest_price": 299.5,
+      "latest_price": 291.0,
       "pairs": [
         {
           "pair_id": "6480-9203",
@@ -6160,10 +6184,10 @@
               "total_lots": 16.92
             }
           ],
-          "latest_price": 299.5,
-          "as_of": "2026-11-11",
+          "latest_price": 291.0,
+          "as_of": "2026-11-12",
           "total_lots": 16.92,
-          "market_value_wan": 506.78,
+          "market_value_wan": 492.4,
           "current_state": "持有"
         }
       ]
@@ -6171,7 +6195,7 @@
     {
       "stock_code": "7763",
       "stock_name": "崇舜",
-      "latest_price": 141.5,
+      "latest_price": 138.5,
       "pairs": [
         {
           "pair_id": "6480-9872",
@@ -6448,10 +6472,10 @@
               "total_lots": 10.68
             }
           ],
-          "latest_price": 141.5,
-          "as_of": "2026-11-11",
+          "latest_price": 138.5,
+          "as_of": "2026-11-12",
           "total_lots": 10.68,
-          "market_value_wan": 151.15,
+          "market_value_wan": 147.95,
           "current_state": "持有"
         }
       ]
@@ -6893,7 +6917,7 @@
             }
           ],
           "latest_price": 25.45,
-          "as_of": "2026-11-11",
+          "as_of": "2026-11-12",
           "total_lots": 97.0,
           "market_value_wan": 246.87,
           "current_state": "持有"
@@ -6903,7 +6927,7 @@
     {
       "stock_code": "7892",
       "stock_name": "元鈦科",
-      "latest_price": 385.5,
+      "latest_price": 378.0,
       "pairs": [
         {
           "pair_id": "6480-9872",
@@ -7814,12 +7838,18 @@
               "action": "加碼",
               "change_lots": 15.95,
               "total_lots": 112.86
+            },
+            {
+              "date": "2026-11-12",
+              "action": "加碼",
+              "change_lots": 13.0,
+              "total_lots": 125.86
             }
           ],
-          "latest_price": 385.5,
-          "as_of": "2026-11-11",
-          "total_lots": 112.86,
-          "market_value_wan": 4350.95,
+          "latest_price": 378.0,
+          "as_of": "2026-11-12",
+          "total_lots": 125.86,
+          "market_value_wan": 4757.7,
           "current_state": "持有"
         }
       ]
@@ -7827,7 +7857,7 @@
     {
       "stock_code": "7878",
       "stock_name": "藥祇",
-      "latest_price": 140.0,
+      "latest_price": 131.0,
       "pairs": [
         {
           "pair_id": "6480-9203",
@@ -8326,16 +8356,61 @@
               "total_lots": 5.0
             }
           ],
-          "latest_price": 140.0,
-          "as_of": "2026-11-11",
+          "latest_price": 131.0,
+          "as_of": "2026-11-12",
           "total_lots": 5.0,
-          "market_value_wan": 70.0,
+          "market_value_wan": 65.5,
           "current_state": "持有"
         }
       ]
     }
   ],
   "alerts": [
+    {
+      "date": "2026-11-12",
+      "action": "加碼",
+      "change_lots": 1.0,
+      "total_lots": 9.43,
+      "pair_id": "6480-9872",
+      "stock_code": "7917",
+      "stock_name": "源傑科技"
+    },
+    {
+      "date": "2026-11-12",
+      "action": "加碼",
+      "change_lots": 13.0,
+      "total_lots": 125.86,
+      "pair_id": "6480-9872",
+      "stock_code": "7892",
+      "stock_name": "元鈦科"
+    },
+    {
+      "date": "2026-11-12",
+      "action": "加碼",
+      "change_lots": 2.0,
+      "total_lots": 32.0,
+      "pair_id": "6480-9203",
+      "stock_code": "7873",
+      "stock_name": "瑞峰"
+    },
+    {
+      "date": "2026-11-12",
+      "action": "加碼",
+      "change_lots": 0.02,
+      "total_lots": 63.36,
+      "pair_id": "6480-9216",
+      "stock_code": "7686",
+      "stock_name": "捷立康"
+    },
+    {
+      "date": "2026-11-12",
+      "action": "減碼",
+      "change_lots": -32.0,
+      "total_lots": 550.8,
+      "pair_id": "6480-9203",
+      "stock_code": "6696",
+      "stock_name": "仁新*"
+    },
     {
       "date": "2026-11-11",
       "action": "加碼",
@@ -9190,51 +9265,6 @@
       "pair_id": "6480-9203",
       "stock_code": "6696",
       "stock_name": "仁新*"
-    },
-    {
-      "date": "2026-10-20",
-      "action": "加碼",
-      "change_lots": 1.0,
-      "total_lots": 16.02,
-      "pair_id": "6480-9872",
-      "stock_code": "7951",
-      "stock_name": "大易橙"
-    },
-    {
-      "date": "2026-10-20",
-      "action": "加碼",
-      "change_lots": 1.0,
-      "total_lots": 2.37,
-      "pair_id": "6480-9216",
-      "stock_code": "7942",
-      "stock_name": "東佑達"
-    },
-    {
-      "date": "2026-10-20",
-      "action": "加碼",
-      "change_lots": 1.05,
-      "total_lots": 22.49,
-      "pair_id": "6480-9216",
-      "stock_code": "7932",
-      "stock_name": "昱鐳應材"
-    },
-    {
-      "date": "2026-10-20",
-      "action": "加碼",
-      "change_lots": 0.1,
-      "total_lots": 3.3,
-      "pair_id": "6480-9B2i",
-      "stock_code": "7930",
-      "stock_name": "威世波"
-    },
-    {
-      "date": "2026-10-20",
-      "action": "加碼",
-      "change_lots": 1.5,
-      "total_lots": 3.0,
-      "pair_id": "9203-9B2i",
-      "stock_code": "7924",
-      "stock_name": "TLC-KY"
     }
   ]
 }
